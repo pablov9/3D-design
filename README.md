@@ -1,2 +1,2 @@
 # 3D-design
-3D designs using CATIA
+This repository cointains 3D part designs created using CATIA.
