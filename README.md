@@ -1,2 +1,2 @@
 # 3D-design
-3D design using CATIA
+3D designs using CATIA
